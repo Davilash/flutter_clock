@@ -1,5 +1,9 @@
 # Analog Clock
 
-This app is an example of an analog clock.
+This app is an example of an analog clock made for participating in Flutter Clock Challenge.
 It has a light theme and a dark theme, and displays sample temperature.
-<img src='analog_clock.jpeg' width='350'>
+
+
+<p align="center">
+  <img src='analog_clock.jpeg' width='400'>
+</p>
